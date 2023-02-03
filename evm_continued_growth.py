@@ -39,7 +39,7 @@ st.markdown('On the other hand, **Arbitrum** is a Layer 2 Scaling Bridge for Eth
 st.markdown('Finally, **Polygon** is a blockchain platform that enables blockchain networks to connect and scale. It aims to create a multi-chain blockchain ecosystem compatible with Ethereum [2](https://en.wikipedia.org/wiki/Polygon_(blockchain)).')
 
 st.write('')
-st.write('During the past month, EVM chains experimented an important growth in activity in the major of the sectors. The intention of this analysis is to provide information about what's going on since the start of 2023 and compare between the few weeks before to see if the trend is continuing equal or not. We will compare the activity over the main L2 chains: Optimism, Arbitrum and Polygon.')
+st.write('During the past month, EVM chains experimented an important growth in activity in the major of the sectors. The intention of this analysis is to provide information about whats going on since the start of 2023 and compare between the few weeks before to see if the trend is continuing equal or not. We will compare the activity over the main L2 chains: Optimism, Arbitrum and Polygon.')
 st.write('The following sections have been considered to carry out the analysis:')
 st.markdown('1. Activity on Optimism vs Arbitrum vs Polygon')
 st.markdown('2. Bridges on Optimism vs Arbitrum vs Polygon')
